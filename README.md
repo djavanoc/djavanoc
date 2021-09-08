@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
  ![Snake animation](https://github.com/djavan/djavan/blob/output/github-contribution-grid-snake.svg)
