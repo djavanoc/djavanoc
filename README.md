@@ -1,4 +1,4 @@
-### Oii!! sou o Djavan 
+### Oii!! Sou o Djavan 
 Seja bem Vindo ao meu GitHub!!
 
 <!--
